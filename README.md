@@ -1,0 +1,1 @@
+# deploy-tflite-visual-wake-words-model-on-raspberrypi-with-pyqt
