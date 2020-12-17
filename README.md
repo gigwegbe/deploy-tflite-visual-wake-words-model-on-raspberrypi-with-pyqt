@@ -1,3 +1,5 @@
+![](tf_model_mov.gif)
+
 # Getting TensorFlow Lite Models on Raspberry Pi 4
 
 The recent introduction of the Raspberry Pi 4, a device that offers the most computing power of a Raspberry Pi yet, offers a new platform to perform inference with [TensorFlow Lite](https://www.tensorflow.org/lite) models. In this guide, you'll learn how to set up your Raspberry Pi, install TensorFlow, and get models running in no time!
